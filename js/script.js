@@ -18,7 +18,7 @@ window.onclick = function(event) {
 }
 
 
-function myFunction() {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("popup__show");
-}
+// function myFunction() {
+//   var popup = document.getElementById("myPopup");
+//   popup.classList.toggle("popup__show");
+// }
